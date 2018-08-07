@@ -1,6 +1,6 @@
-package com.idark.service.impl;
+package com.idark.ioc.injection.service.impl;
 
-import com.idark.service.DemoService;
+import com.idark.ioc.injection.service.DemoService;
 
 /**
  * @description:

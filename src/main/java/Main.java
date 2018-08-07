@@ -1,5 +1,5 @@
-import com.idark.service.DemoService;
-import com.idark.service.impl.DemoServiceImpl;
+import com.idark.ioc.injection.service.DemoService;
+import com.idark.ioc.injection.service.impl.DemoServiceImpl;
 
 /**
  * @description:

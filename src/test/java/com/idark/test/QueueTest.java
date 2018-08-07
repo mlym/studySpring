@@ -1,6 +1,6 @@
 package com.idark.test;
 
-import com.idark.entity.User;
+import com.idark.ioc.injection.entity.User;
 import org.junit.Before;
 import org.junit.Test;
 

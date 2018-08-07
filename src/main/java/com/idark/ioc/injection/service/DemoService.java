@@ -1,4 +1,4 @@
-package com.idark.service;
+package com.idark.ioc.injection.service;
 
 /**
  * @description:

@@ -1,4 +1,4 @@
-package com.idark.entity;
+package com.idark.ioc.injection.entity;
 
 /**
  * @description:
